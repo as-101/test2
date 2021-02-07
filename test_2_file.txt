@@ -1,0 +1,4 @@
+This is your test2 text file.
+It has been created in the test2 repository on your local machine.
+
+You will use the command line to add this locally generated test2 repository to GitHub.
